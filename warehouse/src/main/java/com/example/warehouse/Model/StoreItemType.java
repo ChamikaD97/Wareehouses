@@ -1,6 +1,5 @@
 package com.example.warehouse.Model;
 import javax.persistence.*;
-
 @Entity
 public class StoreItemType {
 
