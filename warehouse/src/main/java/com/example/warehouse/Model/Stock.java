@@ -68,7 +68,6 @@ public class Stock {
 
 	public Stock() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 
