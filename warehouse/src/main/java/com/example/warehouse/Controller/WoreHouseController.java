@@ -21,7 +21,6 @@ public class WoreHouseController {
         return (List<StoreItemType>) storeItemTypeService.getStoreTypeItems();
     }
 
-
     @PostMapping("/AddStoreItems")
     public void AddStoreItems(@RequestBody StoreItemType storeItemType){
         System.out.println(storeItemType.getItem_Name());
