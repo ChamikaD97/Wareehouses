@@ -10,7 +10,7 @@ public class Store {
 
 	@Id
     @GeneratedValue(strategy= GenerationType.AUTO)
-    private Integer Store_Id;
+   	 private Integer Store_Id;
 
 	private String Store_Capacity;
 	private String Store_Location;
