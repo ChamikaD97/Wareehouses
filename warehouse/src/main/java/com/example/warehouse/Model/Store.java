@@ -46,7 +46,6 @@ public class Store {
 
 	public Store() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 
