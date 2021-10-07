@@ -13,7 +13,6 @@ public class Store {
     private Integer Store_Id;
 
 	private String Store_Capacity;
-
 	private String Store_Location;
 
 	public Integer getStore_Id() {
