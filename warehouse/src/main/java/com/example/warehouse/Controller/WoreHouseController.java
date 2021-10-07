@@ -1,5 +1,4 @@
 package com.example.warehouse.Controller;
-
 import com.example.warehouse.Model.StoreItemType;
 import com.example.warehouse.Service.StoreItemTypeService;
 import org.springframework.beans.factory.annotation.Autowired;
