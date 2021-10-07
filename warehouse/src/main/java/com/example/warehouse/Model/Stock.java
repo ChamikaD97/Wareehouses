@@ -10,7 +10,7 @@ public class Stock {
 
 	@Id
     @GeneratedValue(strategy= GenerationType.AUTO)
- 	   private Integer Stock_Id;
+ 	  private Integer Stock_Id;
 
 	private Integer Stock_Count;
 	private Date Stock_Date;
